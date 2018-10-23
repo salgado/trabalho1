@@ -7,7 +7,7 @@ int main()
    printf("Qual o seu nome?");
    gets(nome);
    
-   printf("\nBoa noite!!");
+   printf("\nBoaNoite!!");
    
    return 0;
 }
