@@ -5,7 +5,7 @@ int main()
    char nome[100];
    
    printf("Qual o seu nome?");
-   scanf("%s", nome);
+   gets(nome);
    
    return 0;
 }
