@@ -2,7 +2,10 @@
 
 int main()
 {
+   char nome[100];
+   
    printf("Qual o seu nome?");
+   scanf("%s", nome);
    
    return 0;
 }
